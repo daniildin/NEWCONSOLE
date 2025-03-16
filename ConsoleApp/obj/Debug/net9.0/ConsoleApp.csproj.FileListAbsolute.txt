@@ -1,0 +1,14 @@
+C:\Users\danie\OneDrive\Desktop\ConsoleApp\ConsoleApp\bin\Debug\net9.0\ConsoleApp.exe
+C:\Users\danie\OneDrive\Desktop\ConsoleApp\ConsoleApp\bin\Debug\net9.0\ConsoleApp.deps.json
+C:\Users\danie\OneDrive\Desktop\ConsoleApp\ConsoleApp\bin\Debug\net9.0\ConsoleApp.runtimeconfig.json
+C:\Users\danie\OneDrive\Desktop\ConsoleApp\ConsoleApp\bin\Debug\net9.0\ConsoleApp.dll
+C:\Users\danie\OneDrive\Desktop\ConsoleApp\ConsoleApp\bin\Debug\net9.0\ConsoleApp.pdb
+C:\Users\danie\OneDrive\Desktop\ConsoleApp\ConsoleApp\obj\Debug\net9.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Desktop\ConsoleApp\ConsoleApp\obj\Debug\net9.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Desktop\ConsoleApp\ConsoleApp\obj\Debug\net9.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\ConsoleApp\ConsoleApp\obj\Debug\net9.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\ConsoleApp\ConsoleApp\obj\Debug\net9.0\ConsoleApp.dll
+C:\Users\danie\OneDrive\Desktop\ConsoleApp\ConsoleApp\obj\Debug\net9.0\refint\ConsoleApp.dll
+C:\Users\danie\OneDrive\Desktop\ConsoleApp\ConsoleApp\obj\Debug\net9.0\ConsoleApp.pdb
+C:\Users\danie\OneDrive\Desktop\ConsoleApp\ConsoleApp\obj\Debug\net9.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Desktop\ConsoleApp\ConsoleApp\obj\Debug\net9.0\ref\ConsoleApp.dll
